@@ -7,6 +7,7 @@
     "@preact/signals": "https://esm.sh/*@preact/signals@1.0.3",
     "@preact/signals-core": "https://esm.sh/*@preact/signals-core@1.0.1",
     "@mantine/core": "https://esm.sh/@mantine/core?alias=react:preact/compat,react-dom:preact/compat,@types/react:preact/compat,react/jsx-runtime:preact/compat/jsx-runtime&deps=preact@10.11.0",
+    "@mantine/notifications": "https://esm.sh/@mantine/notifications?alias=react:preact/compat,react-dom:preact/compat,@types/react:preact/compat,react/jsx-runtime:preact/compat/jsx-runtime&deps=preact@10.11.0",
     "@mantine/hooks": "https://esm.sh/@mantine/hooks?alias=react:preact/compat,react-dom:preact/compat,@types/react:preact/compat,react/jsx-runtime:preact/compat/jsx-runtime&deps=preact@10.11.0",
     "@emotion/react": "https://esm.sh/@emotion/react?alias=react:preact/compat,react-dom:preact/compat,@types/react:preact/compat,react/jsx-runtime:preact/compat/jsx-runtime&deps=preact@10.11.0"
   }
